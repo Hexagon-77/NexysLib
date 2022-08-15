@@ -1,4 +1,7 @@
+<img src="https://user-images.githubusercontent.com/95217387/184707016-3987e1de-881a-4334-a894-2d7bc1bb4e37.png" width="150" title="hover text">
+
 # NexysLib
+
 Drivers for the **Nexys A7** board on *RISC-V*.
 
 Handles the basic IO, LEDs, switches, and segment display.
